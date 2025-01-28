@@ -1,6 +1,6 @@
-# Java exercises with Eclipse
-This repository contains projects made in Java using Eclipse. Each folder represents an individual project with its own purpose.
+# Ejercicios Java con Eclipse
+Este repositorio contiene proyectos realizados en Java utilizando Eclipse. Cada carpeta representa un proyecto individual con su propio propósito.
 
-## Projects
-**Project 1**: Sales
-The 30 sales of a month will be stored in an array, the program will help us locate the sales that exceeded $2000 and how many sales there were over that amount.
+## Proyectos
+**Proyecto 1**: Ventas
+Las 30 ventas de un mes se almacenarán en un array, el programa nos ayudará a localizar las ventas que superaron los $2000 y cuántas ventas superan ese monto.
