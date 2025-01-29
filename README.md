@@ -2,5 +2,8 @@
 Este repositorio contiene proyectos realizados en Java utilizando Eclipse. Cada carpeta representa un proyecto individual con su propio propósito.
 
 ## Proyectos
-**Proyecto 1**: Ventas
+**Ejercicio 1**: Ventas
 Las 30 ventas de un mes se almacenarán en un array, el programa nos ayudará a localizar las ventas que superaron los $2000 y cuántas ventas superan ese monto.
+
+**Ejercicio 2**: Número mayor
+De una lista de 5 números, obtener el número mayor, en este caso se generó una lista de tamaño 5 con números Doubles aleatorios.
