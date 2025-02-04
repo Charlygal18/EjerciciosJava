@@ -7,20 +7,21 @@ public class SumaNumeros {
 		Boolean bandera = true;
 		ArrayList<Integer> enteros = new ArrayList<>();
  		int suma = 0;
-		Scanner scanner = new Scanner(System.in);
-		while(bandera) {
-			System.out.println("Ingrese un número entero: ");
-			numero = scanner.nextInt();
-			if(numero == 0) {
-				bandera = false;
+		try (Scanner scanner = new Scanner(System.in)) {
+			while(bandera) {
+				System.out.println("Ingrese un número entero: ");
+				numero = scanner.nextInt();
+				if(numero == 0) {
+					bandera = false;
+				}
+				else if(numero > 0) {
+					enteros.add(numero);
+				}
+				else if(numero < 0) {
+					System.err.println("Solo números enteros positivos");
+				}
+				
 			}
-			else if(numero > 0) {
-				enteros.add(numero);
-			}
-			else if(numero < 0) {
-				System.out.println("Solo números enteros positivos");
-			}
-			
 		}
 		for(int num : enteros) {
 			suma += num;
