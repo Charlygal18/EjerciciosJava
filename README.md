@@ -14,5 +14,8 @@ Arrojar el total de la cuenta en una tienda de pan, el pan cuesta $5.00, si comp
 **Ejercicio 4**: Almacenamiento y suma en lista.  
 Sumar los números introducidos por el usuario hasta que se introduzca un 0 en ese caso se arrojarán los números previamente introducidos y la suma de estos números.
 
-**Ejercicio 5**: A. Promedio de números.  
+**Ejercicio 5**: Promedio de números.  
 Obtener el promedio de los números introducidos por el usuario, validando que solo sean números enteros positivos.
+
+**Ejercicio 6**: Multiplicación de impares.  
+Imprimir la multiplicación de los primeros 10 números impares.
