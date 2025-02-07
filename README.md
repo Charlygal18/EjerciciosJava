@@ -19,3 +19,6 @@ Obtener el promedio de los números introducidos por el usuario, validando que s
 
 **Ejercicio 6**: Multiplicación de impares.  
 Imprimir la multiplicación de los primeros 10 números impares.
+
+**Ejercicio 7**: Promedios y Ceros.  
+Pedir 10 números enteros por consola y arrojar el promedio de los números positivos, los números negativos y el número total de ceros.
